@@ -1,0 +1,72 @@
+body {
+    background-image: url("../Images/NoirElric LOGO-02.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-size: 100% 100%;
+}
+
+p{
+    color:white;
+    background-color: black;
+    border-style: ridge;
+    border-color: red;
+     border-width: 5px;
+     font-size: 20px;
+}
+
+h1{
+    color:white;
+    background-color: black;
+    border-style: ridge;
+    border-color: red;
+    text-align: center;
+}
+
+div{
+      display: flex;
+      justify-content: center;
+}
+
+button{
+background-color: black;
+  border: none;
+  color: white;
+  padding: 15px 40px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+    
+}
+
+nav{
+    background-color: black;
+    border-style: ridge;
+    border-color: red;
+    border-width: 2px;
+    text-align:center;
+
+}
+
+footer{
+    background-color: black;
+    border-style: ridge;
+    border-color: red;
+    border-width: 2px;
+    text-align:center;
+}
+
+a:link{
+    color:red;
+}
+a:visited{
+    color:crimson;
+}
+a:hover{
+    color:white;
+}
+a:active{
+    color:black;
+}
